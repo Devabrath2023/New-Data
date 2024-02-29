@@ -1,0 +1,169 @@
+K-MEANS ASSIGNMENT QUIZ 09
+How many columns contain null data?
+
+Marked Answer :
+4
+
+Correct Answer :
+4
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+How many status ids are unique?
+
+Marked Answer :
+6997
+
+Correct Answer :
+6997
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+How many video post has been made for live selling:
+
+Marked Answer :
+2334
+
+Correct Answer :
+2334
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+How many likes have been given to the photo posted on 4/19/2018 at 22:26?
+
+Marked Answer :
+379
+
+Correct Answer :
+379
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+How many total shares were made for the video post that was posted on 7/15/2017 at 10:52?
+
+Marked Answer :
+167
+
+Correct Answer :
+167
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+What does k means do?
+
+Marked Answer :
+Group similar elements
+
+Correct Answer :
+Group similar elements
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+What output will the below code give? 
+
+colour=[‘red’,’blue’,’green’,’yellow’,’cyan’] 
+
+n=0 
+
+for i in range(0,len(colour)): 
+
+plt.scatter(X[df[‘Clusters(5)’]==i],Y[df[‘Clusters(5)’]==i],s=10,c=colour[i]) plt.scatter(k.cluster_centers_[:,0] ,k.cluster_centers_[:,1], color=’black’) 
+
+Marked Answer :
+Gives 5 clusters with midpoints
+
+Correct Answer :
+Gives 5 clusters with midpoints
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+Which method is used to decide the optimal number of clusters in k-means clustering?
+
+Marked Answer :
+Elbow method
+
+Correct Answer :
+Elbow method
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+In what cases is K Means used?
+
+Marked Answer :
+Clustering
+
+Correct Answer :
+Clustering
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+For exploration, do we use Hierarchical Clustering?
+
+Marked Answer :
+TRUE
+Correct Answer :
+TRUE
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+Which is the function used for the K Means?
+
+Marked Answer :
+KMeans
+
+Correct Answer :
+KMeans
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+How to train the K-means model?
+
+Marked Answer :
+fit()
+
+Correct Answer :
+fit()
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+What does random_state do?
+
+Marked Answer :
+Checks and validate data when code is run multiple times.
+
+Correct Answer :
+Checks and validate data when code is run multiple times.
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+How to check which data is placed under which Cluster?
+
+Marked Answer :
+Cluster_
+
+Correct Answer :
+Labels_
+
+TOTAL MARKS : 1MARKS OBTAINED  0
+Why do we perform standard scalar?
+
+Marked Answer :
+Normalizing data
+
+Correct Answer :
+Normalizing data
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+Perform the following operations on the dataset:
+ ● Drop Status id and status published column.
+● Use a label encoder to encode the status type column.
+● Standardize the data using min-max scalar
+ ● Create a K means model for 2 clusters.
+ From the above model, what is the inter-cluster variance of the model?
+Marked Answer :
+235 to 240
+
+Correct Answer :
+235 to 240
+
+TOTAL MARKS : 1MARKS OBTAINED  1
+Total Marks15 / 16
+Back
+
+K-means Assignment Quiz 09
+
+Notes
+SELF-PACED
+LIVE CLASSES
+STUDY MATERIALS
+Obtained marks : 0 Submission Due Date : Expired
+Quiz is Submitted
+
+Download AttachmentCHECK RESULTS
